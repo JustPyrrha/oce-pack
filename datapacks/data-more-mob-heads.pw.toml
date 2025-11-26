@@ -1,8 +1,0 @@
-name = "data-more-mob-heads"
-filename = "more mob heads v2.17.3 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/more%20mob%20heads%20v2.17.3%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "6a621c3490fd677fc70a6bbbc94c56154b504efb219f36bc2a2d5860f776f16bbfbe82cc2fa69dd2ba00886fbed9f1b94900e25d898e3b29cd2fe0e134bc1428"

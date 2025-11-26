@@ -1,8 +1,0 @@
-name = "data-coordinates-hud"
-filename = "coordinates hud v1.2.15 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/coordinates%20hud%20v1.2.15%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "0285108845fb8e94e2a9486381e6172b8eb3ca9e44e390ff81fab4b816b0a7add9b3668c8e85290825275459d99f70bb975c09cf3f4a0310b94fa2f4502be2f6"

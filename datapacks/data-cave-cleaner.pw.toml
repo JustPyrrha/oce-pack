@@ -1,8 +1,0 @@
-name = "data-cave-cleaner"
-filename = "cave-cleaner-v1.5.zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/cave-cleaner-v1.5.zip"
-hash-format = "sha512"
-hash = "9edc52416e4893b8718eb629c2e264b531cd3d4e5c116d699a18b5c73c10b14b456369be568eccc95077d3341fb3720c6f6ed35b21d0c5285a4ee6e4611884ab"

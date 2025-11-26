@@ -1,8 +1,0 @@
-name = "data-nether-portal-coords"
-filename = "nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/nether%20portal%20coords%20v1.1.14%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "24dd8f87f381caa21bc75c33ec47eabcaca5276f4e8dd89c726f23d3a29ac5a2def7bcff2e2da41044fc65dd96461beda136c43de0701082b6feebd9ba9481dd"

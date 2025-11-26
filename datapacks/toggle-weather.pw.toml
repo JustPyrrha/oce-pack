@@ -1,0 +1,8 @@
+name = "toggle-weather"
+filename = "toggle-weather"
+side = "both"
+
+[download]
+url = "https://github-zip.rx97.dev/hermitcraft-official/toggle-weather?ref=v1.5"
+hash-format = "sha256"
+hash = "8e42e29871fbc9c0982c5378f125d7298a7388d13b132d554a9874317066f7f8"

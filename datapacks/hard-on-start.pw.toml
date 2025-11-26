@@ -1,0 +1,8 @@
+name = "hard-on-start"
+filename = "hard-on-start"
+side = "both"
+
+[download]
+url = "https://github-zip.rx97.dev/hermitcraft-official/hard-on-start?ref=v1.5"
+hash-format = "sha256"
+hash = "89582300916e7194de139af53dbd01ee020943c28b611de765f869c92d1f4cbc"

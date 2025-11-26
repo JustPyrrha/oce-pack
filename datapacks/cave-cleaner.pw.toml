@@ -1,0 +1,8 @@
+name = "cave-cleaner"
+filename = "cave-cleaner"
+side = "both"
+
+[download]
+url = "https://github-zip.rx97.dev/hermitcraft-official/cave-cleaner?ref=v1.5"
+hash-format = "sha256"
+hash = "fa7ad34c95a5c5749e6557ad28ba988aaa8936e97a83a2d2cad6ff69d5b805e9"

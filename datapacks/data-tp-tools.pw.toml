@@ -1,8 +1,0 @@
-name = "data-tp-tools"
-filename = "tp-tools-v1.6.zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/tp-tools-v1.6.zip"
-hash-format = "sha512"
-hash = "dc49648b4725885505d7906c5f1df219a4e0eac5a77ecb7e147f829a717475bcac2a49082b109714a6c2341600af19ac908ddca9eed76faf367fc80071b541c2"

@@ -1,8 +1,0 @@
-name = "data-wandering-trades"
-filename = "wandering trades v1.7.13 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/wandering%20trades%20v1.7.13%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "095a71ef3c296bb235558193fa79f32bf13e3552335c6bfd66de899a1d97a3032a89c4b825205f5283a7a61b8b8902bbb4eca759caaa974e62205fe9088ba247"

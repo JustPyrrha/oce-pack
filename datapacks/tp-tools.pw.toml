@@ -1,0 +1,8 @@
+name = "tp-tools"
+filename = "tp-tools"
+side = "both"
+
+[download]
+url = "https://github-zip.rx97.dev/hermitcraft-official/tp-tools?ref=v1.6"
+hash-format = "sha256"
+hash = "06c0fe17e8d52ca44c3fd38e7e19bc5bae77d25fd30e5403911a34911e56a2c8"

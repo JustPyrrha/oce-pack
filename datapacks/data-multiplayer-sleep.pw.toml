@@ -1,8 +1,0 @@
-name = "data-multiplayer-sleep"
-filename = "multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/multiplayer%20sleep%20v2.6.14%20(MC%201.21-1.21.10).zip"
-hash-format = "sha256"
-hash = "6218f82f661ead5c08866ff618070ffe6e48609ec98b08b0d51d8900bb9a5c16"

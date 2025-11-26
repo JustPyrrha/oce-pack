@@ -6,43 +6,13 @@ hash = "c9d215756d276588de476a1b5905bef6c7b0f0e138de8064aa94cdc28533bf10"
 metafile = true
 
 [[files]]
-file = "datapacks/data-afk-display.pw.toml"
-hash = "2ab0ad24a811b95edd40aa3627e88186810c87edb6de5177d90d7d51322d95c7"
+file = "datapacks/camera.pw.toml"
+hash = "b8900462652023b6be921841a7c79464b86c1474af6bf9c60cb05918b1a8d15b"
 metafile = true
 
 [[files]]
-file = "datapacks/data-anti-enderman-grief.pw.toml"
-hash = "fb5e1a5690159317fc4817570af74e29d9491473b1810977a561acaebb2fb746"
-metafile = true
-
-[[files]]
-file = "datapacks/data-camera.pw.toml"
-hash = "989258734d3d88aaa18ea7ca925c13b3856940c302a32564401c5879b2af7aff"
-metafile = true
-
-[[files]]
-file = "datapacks/data-cave-cleaner.pw.toml"
-hash = "ad5f17b6cd3eb7ae82b1550897db51f1e2fd3da8bd12a0e8866027fb3e6443f0"
-metafile = true
-
-[[files]]
-file = "datapacks/data-coordinates-hud.pw.toml"
-hash = "26408d07b84cf42256c823f59461b5c7ad3cfb45f56994624d0b0b29e9993a94"
-metafile = true
-
-[[files]]
-file = "datapacks/data-double-shulker-shells.pw.toml"
-hash = "0f738257d075495ebc233e8d7c01652702336b6d21aa2a0c15a680f0751fd37c"
-metafile = true
-
-[[files]]
-file = "datapacks/data-durability-ping.pw.toml"
-hash = "6b6ba56b47b186427fe41e8b94c58e0d5df65bc2f7f053f7257b6ad212fafa4a"
-metafile = true
-
-[[files]]
-file = "datapacks/data-hard-on-start.pw.toml"
-hash = "2c9cc1c5b12e85700387d573de8b7e671b8fba50976a249898508a7d28f96a3f"
+file = "datapacks/cave-cleaner.pw.toml"
+hash = "36cda8dbf3891f2e759036ac4d6a2a246e898e296e72a6516b1309baee43f76e"
 metafile = true
 
 [[files]]
@@ -51,93 +21,28 @@ hash = "b569621e42af7443373199912f1525e908591d30a1a4ad56c3a441678b5c6b79"
 metafile = true
 
 [[files]]
-file = "datapacks/data-more-mob-heads.pw.toml"
-hash = "138ccb3a900219dadf8bbca0062e44dbe537d6bfdb179ff160f2897accec1bff"
-metafile = true
-
-[[files]]
-file = "datapacks/data-multiplayer-sleep.pw.toml"
-hash = "dc793973f2ddc4922ca1fbe1edc74d6c742bb168806ef33d4e74f8facee67ec9"
-metafile = true
-
-[[files]]
-file = "datapacks/data-nether-portal-coords.pw.toml"
-hash = "02b14b4ded94e399a461a2502af91b0669c1c7d39dad675905e9aef6cdb03576"
-metafile = true
-
-[[files]]
-file = "datapacks/data-painting-picker.pw.toml"
-hash = "a4a2d8ca703354f3b3be7902d1c0b02d670992817de27936e14615b8d3a860bc"
-metafile = true
-
-[[files]]
-file = "datapacks/data-player-head-drops.pw.toml"
-hash = "af8394d004d490e89239e610b3ba7b8cabb9eb4294f85f8dde303572cdcb5daa"
-metafile = true
-
-[[files]]
-file = "datapacks/data-silence-mobs.pw.toml"
-hash = "59fcec6990bd1953e59cae1d817c0a5d3f4ff69e3e18bc957a0df12c7c4eadd9"
-metafile = true
-
-[[files]]
-file = "datapacks/data-spectator-conduit-power.pw.toml"
-hash = "278b996865d47bbee80a5d57986f526fa533f7f455c578cb7b68ab8e076cc09b"
-metafile = true
-
-[[files]]
-file = "datapacks/data-spectator-night-vision.pw.toml"
-hash = "be7053339b6610ac03aa3b1b94ca5c8430530bc16cd151fddd49c1ea91979b4f"
-metafile = true
-
-[[files]]
-file = "datapacks/data-storm-channeling.pw.toml"
-hash = "2244097d4cfb2d32740364c6fd6faa6e2bdc1d89caea27fcbdcdfaa95fd40b18"
-metafile = true
-
-[[files]]
-file = "datapacks/data-toggle-weather.pw.toml"
-hash = "eb9a59ca09549a02f721d790858697c209e7f20b2c12ad15658da7c9aafbafe4"
-metafile = true
-
-[[files]]
-file = "datapacks/data-tp-tools.pw.toml"
-hash = "08c66c9166893b2da9eeca0b51d2735aa96bb9504e4dc12043c7ee066b7a93a6"
-metafile = true
-
-[[files]]
-file = "datapacks/data-track-raw-stats.pw.toml"
-hash = "8afdce2875ce5b22c9fa33ff515529f8196bbe9c86af8fc3efa85371babc6dd0"
-metafile = true
-
-[[files]]
-file = "datapacks/data-track-stats.pw.toml"
-hash = "2a9e4c1f50c1756089748f6b1c2dbd37c54fe0bbef9fc83c3fc484108cf435b7"
-metafile = true
-
-[[files]]
 file = "datapacks/data-translatable.pw.toml"
 hash = "792db76eb1423de5b3b0430303048d1fda2497f37cca9e74c35ccfc75cd19c2f"
 metafile = true
 
 [[files]]
-file = "datapacks/data-universal-dying.pw.toml"
-hash = "deaef0be9e8c621bc14f619e1426819a5701627c7f80175f22610284abb40c07"
-metafile = true
-
-[[files]]
-file = "datapacks/data-unlock-recipes-trigger.pw.toml"
-hash = "b5603884d8602f6b9c9aab2b8af219d7acbb33851a6d6b09b08b28943d9fb8c4"
-metafile = true
-
-[[files]]
-file = "datapacks/data-wandering-trades.pw.toml"
-hash = "8a9aa7b6302f17e5fe55205eaedaec420ecb72a02d75455182122b2dba2d0845"
+file = "datapacks/hard-on-start.pw.toml"
+hash = "702835687c8e38265aa4ed3e34aaff7f406d48fea54377508673ccac578f2aa8"
 metafile = true
 
 [[files]]
 file = "datapacks/name-formatting-station-datapack.pw.toml"
 hash = "8728ea0b7c4350299dfb8e4fcaf22807233de5eee4b6295b4d24edb37aeeab73"
+metafile = true
+
+[[files]]
+file = "datapacks/toggle-weather.pw.toml"
+hash = "4b7a2dce99e1fd64b8373f9c06e4ae737e33c32d334c1f9a1b66f934a47fe2c7"
+metafile = true
+
+[[files]]
+file = "datapacks/tp-tools.pw.toml"
+hash = "d332b873abc99de0d683033b98fc8087a713f884da233facdda97fe64acf471b"
 metafile = true
 
 [[files]]
@@ -276,6 +181,11 @@ hash = "4e5f9a4fbef8a03ea0f9dbd8cc60540b8a58491e3f84716213ab1a5792403ddc"
 metafile = true
 
 [[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "b05d7d1a0bbd933633cebd1d5e846205a8c0c49fc2129835e1c3d193c1cfa44e"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
 hash = "89837eaa44abe7bb598faf2012531f5a3335b1c413624c6eff44031e8ec48238"
 metafile = true
@@ -340,104 +250,8 @@ file = "overrides/datapacks/ModelApplierV3.zip"
 hash = "e549d0b68c867bf9c39476ac66ab9be10289de6639bf4e051c622002007559dc"
 
 [[files]]
-file = "overrides/datapacks/afk display v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "8b961fb93fba3e76bb1ec972126fb2ba281d1bd6ad97abd344f35b51e178b834"
-
-[[files]]
-file = "overrides/datapacks/anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "bb4d64fe6fde9edad5bacb21a960d8b973c32d1f5eaf60128306eebe1e2e5836"
-
-[[files]]
-file = "overrides/datapacks/camera-v1.4.zip"
-hash = "2f6f2be6a1f525289232c831145b34679f0f53475df93f27988ef45a900b7171"
-
-[[files]]
-file = "overrides/datapacks/cave-cleaner-v1.5.zip"
-hash = "2dc6e361ac4e81287fc0d09bf29ecd306014d83507a8d6c1ac5b2ccd17644f01"
-
-[[files]]
-file = "overrides/datapacks/coordinates hud v1.2.15 (MC 1.21-1.21.10).zip"
-hash = "ac57d0b8d19cc3b3caf7719eee0a67e25765e5b95790e85091c9c58ad447b5e0"
-
-[[files]]
-file = "overrides/datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.10).zip"
-hash = "a63d05018a10fcf5fb488a89eed8a952d26b17cc4ce0320ba4c1b1ec86e41c30"
-
-[[files]]
-file = "overrides/datapacks/durability ping v1.1.15 (MC 1.21-1.21.10).zip"
-hash = "1ddb8e9e88a307253d0a7700f6fbc3158685d047f8782a06cd0a593fea2d900d"
-
-[[files]]
-file = "overrides/datapacks/hard-on-start-v1.5.zip"
-hash = "bbf468bf6e81b4fdabb0ccc55bd1baba0c5d39825a3507b5a8e0a7c4ca138dfd"
-
-[[files]]
-file = "overrides/datapacks/more mob heads v2.17.3 (MC 1.21-1.21.10).zip"
-hash = "c2162acc3bbcaf1dae9aaf7398438772d3429b7218a25801924c3094158863c2"
-
-[[files]]
-file = "overrides/datapacks/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip"
-hash = "6218f82f661ead5c08866ff618070ffe6e48609ec98b08b0d51d8900bb9a5c16"
-
-[[files]]
-file = "overrides/datapacks/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
-
-[[files]]
-file = "overrides/datapacks/painting picker v1.1.1 (MC 1.21-1.21.10).zip"
-hash = "d0bd826998dd807d9e74dff7ceec6a99163f6b40fc0986e621a41f5bc640a424"
-
-[[files]]
-file = "overrides/datapacks/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
-
-[[files]]
-file = "overrides/datapacks/silence mobs v1.2.8 (MC 1.21-1.21.10).zip"
-hash = "934db02ab188038041283033a0eb4fea0aa6e9bc08d50b39e2c9c26fdac73747"
-
-[[files]]
-file = "overrides/datapacks/spectator conduit power v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "6b029f393c39e5b88820fad2563e8c7d7d3004f78f21d99ac573d755b8ac9c35"
-
-[[files]]
-file = "overrides/datapacks/spectator night vision v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "dd0f9e92bb78c99ecaab0c7bca1796180e4ee06e86b7538169161bc5824da569"
-
-[[files]]
-file = "overrides/datapacks/storm channeling v1.0.6 (MC 1.21-1.21.10).zip"
-hash = "725d310709c4a0b1d29f2ec2e9eed3311e250d260b21abf6d8d1c213f13745ee"
-
-[[files]]
-file = "overrides/datapacks/toggle-weather-v1.5.zip"
-hash = "172df9de7383102e9da08660757903e9090f2a53f4fb3379693758ca80c1c249"
-
-[[files]]
-file = "overrides/datapacks/tp-tools-v1.6.zip"
-hash = "08d71a9fb331300b6b98cdf0e946980ae715fba5113973aa21605803264b8c53"
-
-[[files]]
-file = "overrides/datapacks/track raw statistics v1.7.10 (MC 1.21-1.21.10).zip"
-hash = "eddbf5ea9423948683926f66373c88fb5df579e8a8d749f5ab87885f134f3f3d"
-
-[[files]]
-file = "overrides/datapacks/track statistics v1.1.16 (MC 1.21-1.21.10).zip"
-hash = "11f38cc559f12f3596fcb0cb5cb30a702f9bdade7e05c400a212a6b885526f36"
-
-[[files]]
 file = "overrides/datapacks/translatable_v1.9.zip"
 hash = "19dda5e675255ef9ae0b25088ba74b9072d21cc8f185a16518cab487d8d15971"
-
-[[files]]
-file = "overrides/datapacks/universal dying (MC 1.21-1.21.10).zip"
-hash = "4413ebe1a8af267bfa424aef2519fc3e1c2df6a7293cb63652eb3cba5c486443"
-
-[[files]]
-file = "overrides/datapacks/unlock_recipes_trigger.zip"
-hash = "ec99e0809f0e54de91a0a3f90666fb0eef41443f490808ef7869ba393a0394ca"
-
-[[files]]
-file = "overrides/datapacks/wandering trades v1.7.13 (MC 1.21-1.21.10).zip"
-hash = "7f7ae305e80e61cf2b493d0feae5ffd3ea237eea4c14f6636f8aa2a90200f83c"
 
 [[files]]
 file = "unsup.toml"

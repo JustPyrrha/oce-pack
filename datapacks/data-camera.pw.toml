@@ -1,8 +1,0 @@
-name = "data-camera"
-filename = "camera-v1.4.zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/camera-v1.4.zip"
-hash-format = "sha512"
-hash = "43502e21b397ad2312ecaf1d159875841c3a2a90a54396c13260fd7b3d4eb8451f0f6ecd9f1be3fc8c262ef2842ae27c1411706d14ab5a652fe3369e059598cc"

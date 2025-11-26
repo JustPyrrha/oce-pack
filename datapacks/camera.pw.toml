@@ -1,0 +1,8 @@
+name = "camera"
+filename = "camera"
+side = "both"
+
+[download]
+url = "https://github-zip.rx97.dev/hermitcraft-official/camera?ref=v1.4"
+hash-format = "sha256"
+hash = "b431bc9ab98ac0f9d363f4659093a6e6b7777b994cc1ff0cdb7a494843bf7d34"

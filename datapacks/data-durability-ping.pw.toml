@@ -1,8 +1,0 @@
-name = "data-durability-ping"
-filename = "durability ping v1.1.15 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/durability%20ping%20v1.1.15%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "b9148d36d9ef448d885a8882acbeb342635e40abc7330c9b6d2315702b910c7263a0a6c7cd6a36a95bcfa35822e23229461e95a689a75a6aa3b90d4f9ee0f835"

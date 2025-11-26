@@ -1,8 +1,0 @@
-name = "data-unlock-recipes-trigger"
-filename = "unlock_recipes_trigger.zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/unlock_recipes_trigger.zip"
-hash-format = "sha512"
-hash = "5575cab08820a9e900416a31f8e24a6b674d87eb9dc0011a240835ca8442467cf3693535b6c81041c7d84019ba068a07e133a69a3887ba75106ca4e86b3a3158"

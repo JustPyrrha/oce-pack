@@ -1,8 +1,0 @@
-name = "data-silence-mobs"
-filename = "silence mobs v1.2.8 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/silence%20mobs%20v1.2.8%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "ee6d80c1bcc396576aa3494708ff6142c9e0dde7b96781c531ecd4230cb6f20cf94aa25535219725285081dd40cae74d3afd427cfc5fd4f0335aee9add44f2cf"

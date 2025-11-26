@@ -1,8 +1,0 @@
-name = "data-track-raw-stats"
-filename = "track raw statistics v1.7.10 (MC 1.21-1.21.10).zip"
-side = "both"
-
-[download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/track%20raw%20statistics%20v1.7.10%20(MC%201.21-1.21.10).zip"
-hash-format = "sha512"
-hash = "b462c1cf21a9727ac8ee775b0b0c006ad28c6347a98ab5d98148a2d1d34cb1d2ddad56c0d5c8f360c5ca026254edbffa93392f8148b596c97165968518343b01"
