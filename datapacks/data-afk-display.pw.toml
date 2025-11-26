@@ -1,0 +1,8 @@
+name = "data-afk-display"
+filename = "afk display v1.1.14 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/afk%20display%20v1.1.14%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "b64d9fd8ed8bc1194b5f9ec2c16cc3f53a7b38dd6eca834879dd2bdb93eea279e55f9747a05aa2acded33becad77a5a21a542d92f3c6fb67ae34e022b1822eb6"

@@ -1,0 +1,8 @@
+name = "data-double-shulker-shells"
+filename = "double shulker shells v1.3.14 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/double%20shulker%20shells%20v1.3.14%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "947f646f4d5b9ab4336083bfb8e678607009281352c68ff9771ddcc89b52fd7fce68f258ffac2236cdf773bbc6eb6f8db2e1290401d6de819cc8fceee714344a"

@@ -1,0 +1,31 @@
+[flavor_groups.client]
+name = "Client Pack Variant"
+side = "client"
+description = "We provide two versions of the client modpack.\nIf you don't know what to choose, just pick Recommended."
+[[flavor_groups.client.choices]]
+id = "client_recommended"
+name = "Recommended"
+description = "Recommended mod setup for those who just want to play and don't care what mods they have."
+[[flavor_groups.client.choices]]
+id = "client_minimal"
+name = "Minimal"
+description = "The minimum set of required mods to connect to the server. Recommended if you have experience with modding Minecraft and have a set of mods you like to play with. You can add your own mods via Prism Launcher's Mods page."
+
+
+# baseline client mods
+[metafile.armor-poser]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.cloth-config]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.datapack-injector]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.fabric-api]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.itemswapper]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.lithium]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.simple-voice-chat]
+flavors = ["client_minimal", "client_recommended"]
+[metafile.status]
+flavors = ["client_minimal", "client_recommended"]

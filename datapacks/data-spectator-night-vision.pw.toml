@@ -1,0 +1,8 @@
+name = "data-spectator-night-vision"
+filename = "spectator night vision v1.1.14 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/spectator%20night%20vision%20v1.1.14%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "aed087452a358e6818423a1c50ba61dd39649320abb257c3fc4e237b2d025c33c359f7c7cd70e899aa431e3a1a13ab25d805b3a167134d2281b8779cbd431e1e"

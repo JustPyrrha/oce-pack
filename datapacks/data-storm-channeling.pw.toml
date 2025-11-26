@@ -1,0 +1,8 @@
+name = "data-storm-channeling"
+filename = "storm channeling v1.0.6 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/storm%20channeling%20v1.0.6%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "7e7e4f4394fbb279e085031202d3745e46178f227e69f2764f054ccac1ee4014c89edc0934dc1ac7c32a8b0d92b630f2d1fd20fa5b2f6e74976ef3eb8d35b208"

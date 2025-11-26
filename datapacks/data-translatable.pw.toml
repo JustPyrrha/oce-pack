@@ -1,0 +1,8 @@
+name = "data-translatable"
+filename = "translatable_v1.9.zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/translatable_v1.9.zip"
+hash-format = "sha512"
+hash = "2a609fd25ab9614d58e94018bc62221eee67748510bcc985138b8c2f55d7369d9f06c81282a8d8f3378cdc2ab1ce9f51060b9ff1f5fd3809bc9acb0642cb68c4"

@@ -1,0 +1,8 @@
+name = "data-anti-enderman-grief"
+filename = "anti enderman grief v1.1.14 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/anti%20enderman%20grief%20v1.1.14%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "5b0a5a700716d5dbfed2e7698fd2af443fa48ff089b43d2319b4524309088eee178f80d66f0ff87ee3f98c8cfdaade484db97f1bb0204d1c333e46ff0642eeff"

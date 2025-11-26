@@ -1,0 +1,8 @@
+name = "data-spectator-conduit-power"
+filename = "spectator conduit power v1.1.14 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/spectator%20conduit%20power%20v1.1.14%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "7913ef431d84e65d0908f2cad119198baffd5ca359459be59abdeff2a5bf148c249b2edd5f7d606500222b47a4d28b728188f23102b21a28fe3f093ae046bfa9"

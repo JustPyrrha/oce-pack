@@ -1,0 +1,8 @@
+name = "data-painting-picker"
+filename = "painting picker v1.1.1 (MC 1.21-1.21.10).zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/painting%20picker%20v1.1.1%20(MC%201.21-1.21.10).zip"
+hash-format = "sha512"
+hash = "e5f177724b9d50f135f54b4c576ee19c3f918107600a885c60d0732baa0ae685e659d4c228050c66b3fb1eb3fa5cfbd0930f8ab399c83dcdf9b7882a21e1a4cd"
