@@ -7,27 +7,22 @@ metafile = true
 
 [[files]]
 file = "datapacks/camera.pw.toml"
-hash = "b8900462652023b6be921841a7c79464b86c1474af6bf9c60cb05918b1a8d15b"
+hash = "e57c5a3c3663c56b68c389e24169843df5db9da9d957e6b3c1de64ff302abe1c"
 metafile = true
 
 [[files]]
 file = "datapacks/cave-cleaner.pw.toml"
-hash = "36cda8dbf3891f2e759036ac4d6a2a246e898e296e72a6516b1309baee43f76e"
-metafile = true
-
-[[files]]
-file = "datapacks/data-model-applier-v3.pw.toml"
-hash = "b569621e42af7443373199912f1525e908591d30a1a4ad56c3a441678b5c6b79"
-metafile = true
-
-[[files]]
-file = "datapacks/data-translatable.pw.toml"
-hash = "792db76eb1423de5b3b0430303048d1fda2497f37cca9e74c35ccfc75cd19c2f"
+hash = "1cb51baa705cc3c42ccebcd7ab917721b6a6e2ea9b9d9e86e3aab8875d3e888a"
 metafile = true
 
 [[files]]
 file = "datapacks/hard-on-start.pw.toml"
-hash = "702835687c8e38265aa4ed3e34aaff7f406d48fea54377508673ccac578f2aa8"
+hash = "a31eba98cd36f99aad8b433a7ee5699cadfbd235bea064039f2f31cbcb1b91ee"
+metafile = true
+
+[[files]]
+file = "datapacks/model-applier-v3.pw.toml"
+hash = "b569621e42af7443373199912f1525e908591d30a1a4ad56c3a441678b5c6b79"
 metafile = true
 
 [[files]]
@@ -36,13 +31,23 @@ hash = "8728ea0b7c4350299dfb8e4fcaf22807233de5eee4b6295b4d24edb37aeeab73"
 metafile = true
 
 [[files]]
+file = "datapacks/restart-redstone.pw.toml"
+hash = "0e443bb19df07785670c424720866b3c6c0e257b0d824a04f978c539d29721b9"
+metafile = true
+
+[[files]]
 file = "datapacks/toggle-weather.pw.toml"
-hash = "4b7a2dce99e1fd64b8373f9c06e4ae737e33c32d334c1f9a1b66f934a47fe2c7"
+hash = "0afea2f1ea8c4319274202fb1725e17cdd9009a0b14699be7de8cf1b4ee73398"
 metafile = true
 
 [[files]]
 file = "datapacks/tp-tools.pw.toml"
-hash = "d332b873abc99de0d683033b98fc8087a713f884da233facdda97fe64acf471b"
+hash = "18cee285759404da40660b284bfd8722f55b6a33f2c11d75e595a7c5dd8226c4"
+metafile = true
+
+[[files]]
+file = "datapacks/translatable.pw.toml"
+hash = "792db76eb1423de5b3b0430303048d1fda2497f37cca9e74c35ccfc75cd19c2f"
 metafile = true
 
 [[files]]
@@ -248,6 +253,30 @@ metafile = true
 [[files]]
 file = "overrides/datapacks/ModelApplierV3.zip"
 hash = "e549d0b68c867bf9c39476ac66ab9be10289de6639bf4e051c622002007559dc"
+
+[[files]]
+file = "overrides/datapacks/RestartRedstone-v1.5.zip"
+hash = "3604022bf51c88923020d57ba74415636a852943f9c42dbab1daa1da2dd34dbb"
+
+[[files]]
+file = "overrides/datapacks/camera-v1.4.zip"
+hash = "1c0ab94266e34e46fe4cbdad699ee3f6cee76467686ced98a02a5c8f025299ad"
+
+[[files]]
+file = "overrides/datapacks/cave-cleaner-v1.5.zip"
+hash = "f9055a7de66ec528f3ed7f99377fd2bc51346deea3073a72bccbff20c6a8c88c"
+
+[[files]]
+file = "overrides/datapacks/hard-on-start-v1.5.zip"
+hash = "e10020c7d44c40870f6950bd44ae9611633ac278871857e1f237c4de534a1097"
+
+[[files]]
+file = "overrides/datapacks/toggle-weather-v1.5.zip"
+hash = "ec1a434ad12c43a5706e533c5a06f50ef2a7f112a2a80e1018311faf0e84f0fb"
+
+[[files]]
+file = "overrides/datapacks/tp-tools-v1.6.zip"
+hash = "418570786ecf238501b4c9d2aabe0fb58b9fe597bb9085f0ba971186638356a7"
 
 [[files]]
 file = "overrides/datapacks/translatable_v1.9.zip"

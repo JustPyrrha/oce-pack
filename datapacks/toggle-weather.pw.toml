@@ -1,8 +1,8 @@
 name = "toggle-weather"
-filename = "toggle-weather"
+filename = "toggle-weather-v1.5.zip"
 side = "both"
 
 [download]
-url = "https://github-zip.rx97.dev/hermitcraft-official/toggle-weather?ref=v1.5"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/toggle-weather-v1.5.zip"
 hash-format = "sha256"
-hash = "8e42e29871fbc9c0982c5378f125d7298a7388d13b132d554a9874317066f7f8"
+hash = "ec1a434ad12c43a5706e533c5a06f50ef2a7f112a2a80e1018311faf0e84f0fb"

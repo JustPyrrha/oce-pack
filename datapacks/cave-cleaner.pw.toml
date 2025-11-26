@@ -1,8 +1,8 @@
 name = "cave-cleaner"
-filename = "cave-cleaner"
+filename = "cave-cleaner-v1.5.zip"
 side = "both"
 
 [download]
-url = "https://github-zip.rx97.dev/hermitcraft-official/cave-cleaner?ref=v1.5"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/cave-cleaner-v1.5.zip"
 hash-format = "sha256"
-hash = "fa7ad34c95a5c5749e6557ad28ba988aaa8936e97a83a2d2cad6ff69d5b805e9"
+hash = "f9055a7de66ec528f3ed7f99377fd2bc51346deea3073a72bccbff20c6a8c88c"

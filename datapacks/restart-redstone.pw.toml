@@ -1,0 +1,8 @@
+name = "restart-redstone"
+filename = "RestartRedstone-v1.5.zip"
+side = "both"
+
+[download]
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/RestartRedstone-v1.5.zip"
+hash-format = "sha256"
+hash = "3604022bf51c88923020d57ba74415636a852943f9c42dbab1daa1da2dd34dbb"

@@ -1,8 +1,8 @@
 name = "tp-tools"
-filename = "tp-tools"
+filename = "tp-tools-v1.6.zip"
 side = "both"
 
 [download]
-url = "https://github-zip.rx97.dev/hermitcraft-official/tp-tools?ref=v1.6"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/tp-tools-v1.6.zip"
 hash-format = "sha256"
-hash = "06c0fe17e8d52ca44c3fd38e7e19bc5bae77d25fd30e5403911a34911e56a2c8"
+hash = "418570786ecf238501b4c9d2aabe0fb58b9fe597bb9085f0ba971186638356a7"

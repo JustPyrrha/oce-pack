@@ -1,8 +1,8 @@
 name = "hard-on-start"
-filename = "hard-on-start"
+filename = "hard-on-start-v1.5.zip"
 side = "both"
 
 [download]
-url = "https://github-zip.rx97.dev/hermitcraft-official/hard-on-start?ref=v1.5"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/hard-on-start-v1.5.zip"
 hash-format = "sha256"
-hash = "89582300916e7194de139af53dbd01ee020943c28b611de765f869c92d1f4cbc"
+hash = "e10020c7d44c40870f6950bd44ae9611633ac278871857e1f237c4de534a1097"

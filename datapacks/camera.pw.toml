@@ -1,8 +1,8 @@
 name = "camera"
-filename = "camera"
+filename = "camera-v1.4.zip"
 side = "both"
 
 [download]
-url = "https://github-zip.rx97.dev/hermitcraft-official/camera?ref=v1.4"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/camera-v1.4.zip"
 hash-format = "sha256"
-hash = "b431bc9ab98ac0f9d363f4659093a6e6b7777b994cc1ff0cdb7a494843bf7d34"
+hash = "1c0ab94266e34e46fe4cbdad699ee3f6cee76467686ced98a02a5c8f025299ad"
