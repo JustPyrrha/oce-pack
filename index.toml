@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-browser.pw.toml"
-hash = "86d3f9400ccae9c91dd1aac62a9dc8a542ad23dd77baad819b694ef7ec5ba665"
+hash = "db8e3134b1920ffc380d037420142be6dc9f26f6a8007f96625b0dc833a16962"
 metafile = true
 
 [[files]]
