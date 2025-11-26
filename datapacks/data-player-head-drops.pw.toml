@@ -3,6 +3,6 @@ filename = "player head drops v1.1.14 (MC 1.21-1.21.10).zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/player%20head%20drops%20v1.1.14%20(MC%201.21-1.21.10).zip"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/player%20head%20drops%20v1.1.14%20(MC%201.21-1.21.10).zip"
 hash-format = "sha512"
 hash = "29bf904e2a0bac166fa4a7b807ed14ba3ab6a7e375d76fc149d4e81e944d4d7286908b05077acb088e56075482976b65fbdc9516670fbbc6b1c5e3577130aa9c"

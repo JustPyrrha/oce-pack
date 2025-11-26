@@ -1,18 +1,10 @@
-# Hermitcraft Server Pack
+# oce pack (wip name)
 
-The Hermitcraft Server Pack includes all mods, datapacks and configs used by the Hermits.
-If you're looking to replicate the Hermitcraft experience, this pack is for you.
-From customizable armor stands to anti enderman griefing, this pack has it all.
-Some features, like automated resource pack updates, require additional server configuration and setup that we do not provide support for.
-
-## Installation Instructions
-
-**Installation on Servers**
-
-It is recommended to use [mrpack-install](https://github.com/nothub/mrpack-install) to create a server for this modpack.
+We use Hermitcraft's [server pack](https://github.com/henkelmax/hermitcraft-server) as a base, switch out mrpack-install with packwiz and unsup, and add a modified version of Xisuma's [Hermitcraft pack](https://github.com/henkelmax/xisumas-hermitcraft-pack) as a recommended client pack flavour.
 
 ## Credits
-
+- [hermitcraft-server](https://github.com/henkelmax/hermitcraft-server)
+- [xisumas-heritcraft-pack](https://github.com/henkelmax/xisumas-hermitcraft-pack)
 - [Fabric Minecraft Server Launcher](https://fabricmc.net/use/server/)
 - [Vanilla Tweaks](https://vanillatweaks.net/)
 - [camera](https://github.com/hermitcraft-official/camera)

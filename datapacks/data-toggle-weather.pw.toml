@@ -3,6 +3,6 @@ filename = "toggle-weather-v1.5.zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/toggle-weather-v1.5.zip"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/toggle-weather-v1.5.zip"
 hash-format = "sha512"
 hash = "96a522879bd194e98bbace4a405ae2a5dcf09617b3bdc732b6571437fb2806fdbd2ecdbf5597d646ed9a42bd955f560b333f6b7d735474994ef23e15abef6be8"

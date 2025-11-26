@@ -1,0 +1,13 @@
+name = "Model Browser"
+filename = "model-browser-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgDZY2Yg/versions/9QBsp6mC/model-browser-1.2.1.jar"
+hash-format = "sha512"
+hash = "d7178a3cf26c15200dded27afc6090d43d59c7973f78b3cc47f798a1a1f1a2a1cc25d068bfb360b4645cc2327e227783f732e35b7c222edf23b82243fe7be508"
+
+[update]
+[update.modrinth]
+mod-id = "QgDZY2Yg"
+version = "9QBsp6mC"

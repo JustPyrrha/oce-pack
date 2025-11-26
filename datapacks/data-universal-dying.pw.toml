@@ -3,6 +3,6 @@ filename = "universal dying (MC 1.21-1.21.10).zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/universal%20dying%20(MC%201.21-1.21.10).zip"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/universal%20dying%20(MC%201.21-1.21.10).zip"
 hash-format = "sha512"
 hash = "bf017827bb19e407f07f8422ede54cef97e7d3e24d340917d38a9d9af230a99e5eff2853d6c2de51d2a16de8c22c661dd921df55664e3c65abe959fba510bb67"

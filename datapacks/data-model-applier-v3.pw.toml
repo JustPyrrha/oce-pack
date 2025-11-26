@@ -3,6 +3,6 @@ filename = "ModelApplierV3.zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/master/overrides/datapacks/ModelApplierV3.zip"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/ModelApplierV3.zip"
 hash-format = "sha512"
 hash = "aa0722c5524ed7d2192c018b1626eb558b710b5c39f7c458ec872047c6f2345570a0dba2fe88773f53f144a044997d5478940e141df33fc7883ede276c1f57c7"
