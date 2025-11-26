@@ -261,11 +261,6 @@ hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "348284f9e32f1827364efbf0053cee3b127c3d1db371554b118ab35c965d4c3d"
-metafile = true
-
-[[files]]
 file = "mods/peek.pw.toml"
 hash = "22e9b5d9795e000d5da783c974f0653993b110ae59e1e7cac0c082e206004934"
 metafile = true
@@ -278,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "4e5f9a4fbef8a03ea0f9dbd8cc60540b8a58491e3f84716213ab1a5792403ddc"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "89837eaa44abe7bb598faf2012531f5a3335b1c413624c6eff44031e8ec48238"
 metafile = true
 
 [[files]]
@@ -440,9 +440,5 @@ file = "overrides/datapacks/wandering trades v1.7.13 (MC 1.21-1.21.10).zip"
 hash = "7f7ae305e80e61cf2b493d0feae5ffd3ea237eea4c14f6636f8aa2a90200f83c"
 
 [[files]]
-file = "readme.md"
-hash = "10cd119f64c0f7b4e45aab880ffdace0d9f9deeb77d3deb61f63584eebb1fac4"
-
-[[files]]
 file = "unsup.toml"
-hash = "e2e7d983606f792e84b18c41454033127ddab9e1fb1c2bd667097dfc323fda04"
+hash = "4bb42a6defe3f9ab6beec8592101ff7f4ae5603938c32b2f70d65af9dfbe9ea3"
