@@ -1,3 +1,4 @@
+/overrides
 /readme.md
-docker-compose.yml
-server-testing-pack.zip
+/docker-compose.yml
+/server-testing-pack.zip
