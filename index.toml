@@ -66,6 +66,11 @@ hash = "0941c5b9cafbbc4bea49d36493abb63b6e392f2bcce6b7381b0283dfc3eaec94"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "6088be62ff0bc4e93388ba995418a376a1b7dfd062cce84bc36349b34ffa4af6"
+metafile = true
+
+[[files]]
 file = "mods/bundles-beyond.pw.toml"
 hash = "0468ce45030e77dc9b3a848b01014e8bb7a3fb7f65bc8db3efde2d0b438498d3"
 metafile = true

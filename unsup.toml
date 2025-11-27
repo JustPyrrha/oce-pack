@@ -33,6 +33,8 @@ flavors = ["client_minimal", "client_recommended"]
 # recommended client mods
 [metafile.appleskin]
 flavors = ["client_recommended"]
+[metmafile.bobby]
+flavors = ["client_recommended"]
 [metafile.bundles-beyond]
 flavors = ["client_recommended"]
 [metafile.camera-utils]
