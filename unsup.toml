@@ -10,7 +10,11 @@ description = "Recommended mod setup for those who just want to play and don't c
 id = "client_minimal"
 name = "Minimal"
 description = "The minimum set of required mods to connect to the server. Recommended if you have experience with modding Minecraft and have a set of mods you like to play with. You can add your own mods via Prism Launcher's Mods page.\nNote: This is missing a lot of QoL mods that Recommended includes."
-
+[flavor_groups.dark_theme]
+name = "Dark Theme"
+side = "client"
+description = "Include dark theme mods and resources."
+choices = ["dark_theme_included", "dark_thme_excluded"]
 
 # baseline client mods
 [metafile.armor-poser]
@@ -77,3 +81,7 @@ flavors = ["client_recommended"]
 flavors = ["client_recommended"]
 [metafile.sodium]
 flavors = ["client_recommended"]
+
+# dark theme
+[metafile.dark-loading-screens]
+flavors = ["dark_theme_included"]

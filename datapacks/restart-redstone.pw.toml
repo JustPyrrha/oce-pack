@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/RestartRedstone-v1.5.zip"
-hash-format = "sha256"
-hash = "3604022bf51c88923020d57ba74415636a852943f9c42dbab1daa1da2dd34dbb"
+hash-format = "sha512"
+hash = "31acc0f9cbf41f548d5ab7f1ab18ee8cf4c3e6413c337b6b2df18b81a9d75d83521cf5ab4bb6a21a23d5e7481d3167fb62971e7dc49eae65c41cc359d2a5a764"

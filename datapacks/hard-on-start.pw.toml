@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/hard-on-start-v1.5.zip"
-hash-format = "sha256"
-hash = "e10020c7d44c40870f6950bd44ae9611633ac278871857e1f237c4de534a1097"
+hash-format = "sha512"
+hash = "5b08a163d4d86bd67487a05cd546b2bf1407bc5e7d97ba7ae73bc3781d087be92264fe33db6e073e19e60117568a088c4d1475e6b7bad8ada186f639aee68211"
