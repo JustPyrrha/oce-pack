@@ -25,7 +25,7 @@ services:
       ENABLE_WHITELIST: "true"
       WHITELIST: |-
         JustPyrrha
-        BlizardKitten
+        Blizzardkitten
       PACKWIZ_URL: "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/pack.toml"
       VANILLATWEAKS_SHARECODE: "2tnHMH\nFF8soj"
       RESOURCE_PACK: "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/server-testing-pack.zip"
