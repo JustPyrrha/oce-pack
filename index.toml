@@ -116,6 +116,11 @@ hash = "5b0491bcaad6a280809d8abc33eb20a9613fec528d29b645567aad981fff4972"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "e56ab572b86cd0f11f62baa45556a21cf767197a6f028d967814166b10ed3784"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "9d12f51a932b25751b7595ca46439a30bee2c26bf6d9913ccc9a27ade1972f36"
 metafile = true
@@ -183,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "4e5f9a4fbef8a03ea0f9dbd8cc60540b8a58491e3f84716213ab1a5792403ddc"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "89837eaa44abe7bb598faf2012531f5a3335b1c413624c6eff44031e8ec48238"
 metafile = true
 
 [[files]]
@@ -279,4 +279,4 @@ hash = "19dda5e675255ef9ae0b25088ba74b9072d21cc8f185a16518cab487d8d15971"
 
 [[files]]
 file = "unsup.toml"
-hash = "4bb42a6defe3f9ab6beec8592101ff7f4ae5603938c32b2f70d65af9dfbe9ea3"
+hash = "7ae605fc48a3fd7af269fa5b0649d4d66a5b35b29761bd89c1dc060d1f9daefa"
