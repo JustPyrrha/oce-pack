@@ -27,7 +27,7 @@ services:
         JustPyrrha
         Blizzardkitten
       PACKWIZ_URL: "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/pack.toml"
-      VANILLATWEAKS_SHARECODE: "2tnHMH\nFF8soj"
+      VANILLATWEAKS_SHARECODE: "TCKAO0\nFF8soj"
       RESOURCE_PACK: "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/server-testing-pack.zip"
       RESOURCE_PACK_SHA1: "cfd8a88bc935d0586b4af510aac1b441796074a0"
       RESOURCE_PACK_REQUIRED: "true"
