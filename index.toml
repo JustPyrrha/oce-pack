@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2d373a1128cdb01a77053c64d5d6a64cf76c2d68da0529b2cc0f2dd6f8371767"
+hash = "ae2060c6233ba1715c06f687148af5b2fbd9ac511c28d653fe2887ad7ecb1fc1"
 metafile = true
 
 [[files]]
 file = "mods/model-browser.pw.toml"
-hash = "db8e3134b1920ffc380d037420142be6dc9f26f6a8007f96625b0dc833a16962"
+hash = "28c147879165e04e684cc064b0dd229c9117a968fa6251a8c92ebe81e1137455"
 metafile = true
 
 [[files]]
