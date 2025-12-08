@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "0941c5b9cafbbc4bea49d36493abb63b6e392f2bcce6b7381b0283dfc3eaec94"
+hash = "7e1f02c60c897af0558c3c72e1d9d4ef376e849d69e75bbea47c81d76d68513e"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "c9fd548aa345384fe05cc143a191e6e507a07c20a08f31562966f5423a4e39d9"
+hash = "6cc155f0633b2187f5bc71357ab1d82c1d49f9592bcbd73191ec1001c98c342b"
 metafile = true
 
 [[files]]
