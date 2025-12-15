@@ -12,7 +12,7 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "FABRIC"
-      VERSION: "1.21.10"
+      VERSION: "1.21.11"
       MEMORY: "5120M"
       MAX_PLAYERS: "25"
       MOTD: "oce test server"
@@ -35,7 +35,7 @@ services:
       BUG_REPORT_LINK: "https://github.com/JustPyrha/oce-pack/issues"
       ENABLE_ROLLING_LOGS: "true"
       LOG_TIMESTAMP: "true"
-      LOG_IPS: "true"
+      LOG_IPS: "false"
     volumes:
       - "${PWD}/data:/data:Z"
 

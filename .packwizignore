@@ -1,5 +1,5 @@
 /overrides
 /readme.md
-/docker-compose.yml
+/compose.yml
 /server-testing-pack.zip
-/update_notes.md
+/update_note.md
