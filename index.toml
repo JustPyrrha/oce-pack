@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "compose.yml"
-hash = "15ed3fd1c01fcfed59631103b7283fe666c147bf01c3405614d0b1c56e508ddf"
-
-[[files]]
 file = "datapacks/camera.pw.toml"
 hash = "3103adcb641824c403e04378a6196a1969b3067974d7584e54e49fdfdf2877f6"
 metafile = true
@@ -217,7 +213,3 @@ metafile = true
 [[files]]
 file = "unsup.toml"
 hash = "116182138e4cbb51cae1cde9ddcca77d61a158fbcb0b6cb87452108e8a4414df"
-
-[[files]]
-file = "update_note.md"
-hash = "681853250fb2efa382d1b723ce7c9dfef8f725a119bdd77185c2a11d7456440f"
