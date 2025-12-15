@@ -3,6 +3,6 @@ filename = "camera-v1.4.zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/camera-v1.4.zip"
-hash-format = "sha512"
-hash = "85aa5ac259838ee68dc3681b8e97fafca2c9a68651ec7886e16d47f45e81ae4f432362fc9f4344c5d940fdea5564699608e1b39656c08d43be2510fd99db44df"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/camera-v1.5.zip"
+hash-format = "sha256"
+hash = "1c0ab94266e34e46fe4cbdad699ee3f6cee76467686ced98a02a5c8f025299ad"

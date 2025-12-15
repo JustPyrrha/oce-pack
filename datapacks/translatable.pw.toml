@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/translatable_v1.9.zip"
-hash-format = "sha512"
-hash = "2a609fd25ab9614d58e94018bc62221eee67748510bcc985138b8c2f55d7369d9f06c81282a8d8f3378cdc2ab1ce9f51060b9ff1f5fd3809bc9acb0642cb68c4"
+hash-format = "sha256"
+hash = "19dda5e675255ef9ae0b25088ba74b9072d21cc8f185a16518cab487d8d15971"

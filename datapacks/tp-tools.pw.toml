@@ -3,6 +3,6 @@ filename = "tp-tools-v1.6.zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/tp-tools-v1.6.zip"
-hash-format = "sha512"
-hash = "e6c66abb1da4f66a4a277ae9a83804f759407d956c1c92d31ab7764f8d2f72ecd442c8576556180ac13a882be4dded02ff07c4d7edaae5c16950e409621216b8"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/tp-tools-v1.7.zip"
+hash-format = "sha256"
+hash = "418570786ecf238501b4c9d2aabe0fb58b9fe597bb9085f0ba971186638356a7"

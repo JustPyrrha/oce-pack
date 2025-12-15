@@ -3,6 +3,6 @@ filename = "cave-cleaner-v1.5.zip"
 side = "both"
 
 [download]
-url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/cave-cleaner-v1.5.zip"
-hash-format = "sha512"
-hash = "81a869cf6d60d49299e8d2acd476d3d69d4ed0921fab89186d0b25eb82e7efe16483a9f9f3910b5abdf9fbb21e26dcd4e1c52925c787e3d91e1975b8fd885706"
+url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/cave-cleaner-v1.6.zip"
+hash-format = "sha256"
+hash = "f9055a7de66ec528f3ed7f99377fd2bc51346deea3073a72bccbff20c6a8c88c"
