@@ -1,8 +1,8 @@
 name = "hard-on-start"
-filename = "hard-on-start-v1.5.zip"
+filename = "hard-on-start-v1.6.zip"
 side = "both"
 
 [download]
 url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/hard-on-start-v1.6.zip"
 hash-format = "sha256"
-hash = "e10020c7d44c40870f6950bd44ae9611633ac278871857e1f237c4de534a1097"
+hash = "2dcfe96f3242b172181cb8e9238160166024cdbbe5540d71f1bc297d259bd941"

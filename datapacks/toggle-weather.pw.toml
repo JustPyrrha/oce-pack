@@ -1,8 +1,8 @@
 name = "toggle-weather"
-filename = "toggle-weather-v1.5.zip"
+filename = "toggle-weather-v1.6.zip"
 side = "both"
 
 [download]
 url = "https://github.com/JustPyrrha/oce-pack/raw/refs/heads/main/overrides/datapacks/toggle-weather-v1.6.zip"
 hash-format = "sha256"
-hash = "ec1a434ad12c43a5706e533c5a06f50ef2a7f112a2a80e1018311faf0e84f0fb"
+hash = "35bf65da18f6da663f1db662fc6a51a8a2b27f82a772d7a9f9cc38015b3523b6"

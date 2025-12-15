@@ -1,46 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".update_note.md.kate-swp"
-hash = "89e32a4bc1ec6641000a9f883f904d043dc9a05e8f5ce31bdbf6a7f9985c2d24"
-
-[[files]]
 file = "compose.yml"
 hash = "15ed3fd1c01fcfed59631103b7283fe666c147bf01c3405614d0b1c56e508ddf"
 
 [[files]]
 file = "datapacks/camera.pw.toml"
-hash = "72a2c082d2a50739af2ebfc32f052287511a5ba8688e88b18e455557571f4bad"
+hash = "3103adcb641824c403e04378a6196a1969b3067974d7584e54e49fdfdf2877f6"
 metafile = true
 
 [[files]]
 file = "datapacks/cave-cleaner.pw.toml"
-hash = "364232401ea2dbeb2bee4d022aaa4a77416a1df33a9780eeedd08096eba1bf24"
+hash = "2ba4d806c0dde16305455ad76baf87488e231177c7a954d92d3ab9d2a6842862"
 metafile = true
 
 [[files]]
 file = "datapacks/hard-on-start.pw.toml"
-hash = "daa8c3d2fbec893bd07dafc9940eeddc6d75449061720ca93e2b791f1f6a4fcc"
+hash = "8264ed07026da13dcc4dcca3ba231d9c2ef0a3d11347592bbd1b85ece104ee16"
 metafile = true
 
 [[files]]
 file = "datapacks/model-applier-v3.pw.toml"
-hash = "9223a4c93be76683042fe4ddc3a0e8c6ea8021b3e002aa1bbc323b03bf81002e"
+hash = "6bb72a209ed057de029fca80249d9b5b6cd77c79a77f48a059786c0956052055"
 metafile = true
 
 [[files]]
 file = "datapacks/restart-redstone.pw.toml"
-hash = "114c72e7c3c486b567f6ad4206e31a7d506352c9017d5a5d7d4e92c1ee8e22dc"
+hash = "017410a0c22d20f99c2ec5d0a47c487651b37e8445fb79e8a7ca05006aae6eef"
 metafile = true
 
 [[files]]
 file = "datapacks/toggle-weather.pw.toml"
-hash = "ad78fc7373ca4dcf9a2841063de9247e9dcad95c51055607f7513e936688e71c"
+hash = "1422beb60a9a4397b03071a052a4d3f4f85be89cc8b265aa49d88992c0f6c0a3"
 metafile = true
 
 [[files]]
 file = "datapacks/tp-tools.pw.toml"
-hash = "de04f0a532ccc18e6ae09c7d8f9cb9aaf639257a1a11e21e7a70f9eb6b42f538"
+hash = "9b66e90b3eeea489e2c213acfd5eacc72cd7d509c2e3725bf02d572ecfed8ffc"
 metafile = true
 
 [[files]]
@@ -224,4 +220,4 @@ hash = "116182138e4cbb51cae1cde9ddcca77d61a158fbcb0b6cb87452108e8a4414df"
 
 [[files]]
 file = "update_note.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "681853250fb2efa382d1b723ce7c9dfef8f725a119bdd77185c2a11d7456440f"
