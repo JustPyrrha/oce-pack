@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "a98087fdda7661c5b9aa9cb78b18afc617a96564d355eb1e3701dfe29d87ab09"
+hash = "a9b5bdeaa6995aabf00d9adf49724fdf18c14527044f708620e07ca58eb027b4"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/locator-heads.pw.toml"
-hash = "c27b37804e981bb6d7029decacf23f82ed02121655d6cee7698a764e36750ea7"
+hash = "6b7db41c006bf5f8f126c0c793a39b90727d93f70d8e4727f64c36801fb0375e"
 metafile = true
 
 [[files]]
