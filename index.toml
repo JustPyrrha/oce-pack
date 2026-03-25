@@ -36,6 +36,11 @@ hash = "9b66e90b3eeea489e2c213acfd5eacc72cd7d509c2e3725bf02d572ecfed8ffc"
 metafile = true
 
 [[files]]
+file = "datapacks/translatable.pw.toml"
+hash = "32a2629baa2ec6a672415555ca29783977f2872331663de130b30e272fa1c812"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "b68e94db9b4657bfaeaa50bbdc7922e863353daa867d910c96b2e56d7e09db47"
 metafile = true
@@ -71,6 +76,11 @@ hash = "9964bd325b8537dba6c905b1924c9694ca7532df52145bef617f0143033e5dce"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b80c84371fea57646b1a107d4f38e1bc89e671c477b441700bdb99ddb363a712"
+metafile = true
+
+[[files]]
 file = "mods/inhabitor.pw.toml"
 hash = "e5229fdd5c1e6ed3c26402218adf97a641c359aed04461446e4efbb1d7bdbbf2"
 metafile = true
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "19fc9247d6714a1a81f4ec64d8f0aeda1f6d2b8ecbe51d6917d80947394750c9"
+metafile = true
+
+[[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "537ca4375086db8da7e457a7e72c9bd1e38a6fca8a9e1abeaf5e54a3d2f547ac"
 metafile = true
 
 [[files]]
