@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "b68e94db9b4657bfaeaa50bbdc7922e863353daa867d910c96b2e56d7e09db47"
+hash = "f898875af6aa3bcd4f485f527e6cb7d882bea9e4e14a868fb36745ec9f4ad241"
 metafile = true
 
 [[files]]
@@ -53,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "840969028c5c476be60b414939e80e52bf7f697a40fe439e2bf30f70d0081a8a"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
 metafile = true
 
 [[files]]
@@ -72,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9964bd325b8537dba6c905b1924c9694ca7532df52145bef617f0143033e5dce"
+hash = "270d646d083ecc615a15db213cd8844ebf25870b6014c9dbe8fee5be294edf40"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "b80c84371fea57646b1a107d4f38e1bc89e671c477b441700bdb99ddb363a712"
+hash = "8eaa59aeec2a3c68ee33e1ecd635716f12c642766644040e04c551c22ebb7f90"
 metafile = true
 
 [[files]]
@@ -87,27 +92,27 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "975914da00ffe0e28a604c0bfb7c101550d1f01eeda9868e1f84b9cffb62b537"
+hash = "acfe3334806f51af695755a79214b6ba646674038db963b8ef4c8ce99488ece0"
 metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "28b13ef815eb78c6f81a9bc318a1f30070a62ed21456f9593bee810feb512858"
+hash = "08ac235f85c3fe6190ba1cdfcf2cf326c3d5ae92ea9e94d1555821959470c025"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "19fc9247d6714a1a81f4ec64d8f0aeda1f6d2b8ecbe51d6917d80947394750c9"
+hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
 metafile = true
 
 [[files]]
 file = "mods/locator-heads.pw.toml"
-hash = "537ca4375086db8da7e457a7e72c9bd1e38a6fca8a9e1abeaf5e54a3d2f547ac"
+hash = "98b48b4858bf167d032f17a9d6fb780425b93207a89fbebf346256cfab25a3ae"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "3679d9346f32c2466a3aba02aa9e27da2a212e03620b9decd617d3ae1888def6"
+hash = "4f7ba4d6dafd9df5aaa183f348a19348b4faf62635135275b7aff6ce2392d1ed"
 metafile = true
 
 [[files]]
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dc6d147f21fd2f1236b6dba337a781ccff0db5b74024a01806186aa18614fc8"
+hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
@@ -147,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "64157ece2ccf935a777510ff302800e8be8290f1043f60710ab65cf53f190515"
+hash = "bd35f4627835e43aa8ce1dc6aefe33d2f4f3274583e639141b0ad033f4a5b0e8"
 metafile = true
 
 [[files]]

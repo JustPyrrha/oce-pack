@@ -4,7 +4,6 @@
     - [Appleskin](https://modrinth.com/mod/appleskin)
     - [Bobby](https://modrinth.com/mod/bobby) (consider replacing with voxy)
     - [Bundles Beyond](https://modrinth.com/mod/bundles-beyond)
-    - [Chat Heads](https://modrinth.com/mod/chat-heads)
     - [Cloth Config](https://modrinth.com/mod/cloth-config)
     - [Item Swapper](https://modrinth.com/mod/itemswapper)
     - [Raised](https://modrinth.com/mod/raised) (could just remove entirely)
