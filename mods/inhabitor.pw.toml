@@ -1,13 +1,13 @@
 name = "Inhabitor"
-filename = "inhabitor-fabric-1.0.7+26.1.jar"
+filename = "inhabitor-fabric-1.0.7+26.1.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/NSBscIsQ/versions/a07LbwaC/inhabitor-fabric-1.0.7%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/NSBscIsQ/versions/sf9YQ5YM/inhabitor-fabric-1.0.7%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "83edb061dbff995de4e5c7e9cba07cc04960ae6d8d9f480b38730d730e0e037ed14abf77e1bcb9c200d0d6744ad3fa2e66560c9c0e64c47839c9a5352b63b21b"
+hash = "97903cc363768b301e1168f4b5e999293c7578708548e3b6eb6597bebd7bfcb02efe3f8c47424eef4e0f0a1b2e2419a3675d82267278601a0d8fe5b23d8b8959"
 
 [update]
 [update.modrinth]
 mod-id = "NSBscIsQ"
-version = "a07LbwaC"
+version = "sf9YQ5YM"

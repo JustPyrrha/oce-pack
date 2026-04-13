@@ -1,13 +1,13 @@
 name = "Simple Voice Chat Enhanced Groups"
-filename = "enhancedgroups-fabric-1.7.1+26.1.jar"
+filename = "enhancedgroups-fabric-1.7.1+26.1.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1LE7mid6/versions/74VbSYks/enhancedgroups-fabric-1.7.1%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/1LE7mid6/versions/vLMugawx/enhancedgroups-fabric-1.7.1%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "e120df1ac9a999566d12e1936e49c91a6c8349374b7149c5849cbc78eac1d1e2422703a51928095e4bf68075bfb1284e4714516ef822c84691607e150b5973ed"
+hash = "346ad1eaed61fb861755e7b48914219d5bc4025c5143875443f0783949a77162412139329d274ad88367826dfc0355dca8549e25240613318941ce58b6ac6ab3"
 
 [update]
 [update.modrinth]
 mod-id = "1LE7mid6"
-version = "74VbSYks"
+version = "vLMugawx"
